@@ -1,3 +1,6 @@
+//Programa: MediaCalculatorExample
+//Autor: Peterson Barros
+//Versão: 1, Maio 2023
 //Este programa solicita senha de acesso (senha123 inicial) e permite o cálculo de média de um aluno, retornando na tela o resultado
 import java.util.Scanner;
 
